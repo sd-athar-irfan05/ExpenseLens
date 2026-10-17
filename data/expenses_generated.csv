@@ -1,0 +1,349 @@
+Date,Category,Description,Amount,Payment_Method
+2026-10-01,Food,Dinner,145,UPI
+2026-10-01,Fuel,Petrol,278,Card
+2026-10-02,Food,Breakfast,67,UPI
+2026-10-02,Education,Notebook,1179,UPI
+2026-10-02,Personal Care,Toiletries,275,Cash
+2026-10-02,Other,Small purchase,848,UPI
+2026-10-02,Fuel,Petrol,796,Cash
+2026-10-03,Education,Online course,239,UPI
+2026-10-03,Entertainment,Movie ticket,467,Cash
+2026-10-03,Other,Small purchase,846,UPI
+2026-10-04,Personal Care,Haircut,437,UPI
+2026-10-04,Personal Care,Toiletries,693,Card
+2026-10-04,Bills,Internet bill,493,Card
+2026-10-04,Travel,Bus fare,136,Cash
+2026-10-04,Travel,Auto fare,71,Cash
+2026-10-05,Health,Health checkup,797,UPI
+2026-10-05,Bills,Electricity bill,529,Card
+2026-10-05,Shopping,Clothes,800,Card
+2026-10-05,Education,Books,976,Cash
+2026-10-06,Personal Care,Haircut,382,UPI
+2026-10-06,Education,Notebook,676,Cash
+2026-10-06,Shopping,Clothes,964,Card
+2026-10-06,Bills,Mobile recharge,1442,Cash
+2026-10-07,Health,Medicines,592,UPI
+2026-10-07,Education,Online course,1227,Cash
+2026-10-07,Other,Small purchase,390,UPI
+2026-10-07,Fuel,Petrol,286,UPI
+2026-10-07,Travel,Auto fare,101,Card
+2026-10-08,Other,Miscellaneous expense,414,Cash
+2026-10-08,Other,Small purchase,561,Cash
+2026-10-08,Personal Care,Haircut,167,Card
+2026-10-08,Personal Care,Toiletries,398,UPI
+2026-10-08,Shopping,Household items,747,Cash
+2026-10-09,Shopping,Accessories,2179,UPI
+2026-10-09,Shopping,Accessories,726,Cash
+2026-10-10,Personal Care,Personal care products,50,Card
+2026-10-10,Bills,Electricity bill,139,UPI
+2026-10-10,Bills,Electricity bill,590,UPI
+2026-10-11,Other,Miscellaneous expense,107,Card
+2026-10-11,Health,Medicines,1140,UPI
+2026-10-11,Fuel,Petrol,438,Cash
+2026-10-12,Other,Small purchase,236,Card
+2026-10-12,Education,Online course,847,Card
+2026-10-12,Bills,Electricity bill,1159,Cash
+2026-10-12,Travel,Auto fare,135,UPI
+2026-10-12,Bills,Mobile recharge,1304,Card
+2026-10-12,Education,Books,44,UPI
+2026-10-13,Education,Notebook,94,Cash
+2026-10-13,Travel,Auto fare,162,Card
+2026-10-14,Education,Books,1199,Card
+2026-10-14,Health,Medicines,1018,Cash
+2026-10-14,Education,Notebook,228,Card
+2026-10-14,Entertainment,Game subscription,533,Cash
+2026-10-14,Health,Health checkup,160,Card
+2026-10-15,Food,Evening snacks,193,UPI
+2026-10-15,Education,Books,419,Card
+2026-10-16,Fuel,Petrol,475,Cash
+2026-10-16,Health,Medicines,204,Cash
+2026-10-16,Personal Care,Haircut,101,Card
+2026-10-16,Personal Care,Haircut,145,UPI
+2026-10-16,Fuel,Petrol,1094,Cash
+2026-10-17,Entertainment,Movie ticket,268,Cash
+2026-10-17,Food,Evening snacks,155,Cash
+2026-10-17,Shopping,Household items,2376,Card
+2026-10-18,Fuel,Petrol,707,UPI
+2026-10-18,Food,Tea and coffee,297,UPI
+2026-10-18,Bills,Mobile recharge,202,Card
+2026-10-18,Health,Health checkup,1137,UPI
+2026-10-18,Food,Tea and coffee,61,UPI
+2026-10-19,Other,Miscellaneous expense,711,UPI
+2026-10-19,Entertainment,Movie ticket,683,UPI
+2026-10-20,Other,Miscellaneous expense,654,UPI
+2026-10-20,Entertainment,Streaming subscription,697,Card
+2026-10-20,Personal Care,Toiletries,317,UPI
+2026-10-20,Bills,Mobile recharge,643,Cash
+2026-10-20,Fuel,Petrol,1036,Cash
+2026-10-20,Travel,Bus fare,254,Card
+2026-10-21,Travel,Bus fare,295,UPI
+2026-10-21,Personal Care,Toiletries,185,Cash
+2026-10-21,Travel,Auto fare,209,Cash
+2026-10-21,Fuel,Petrol,719,Card
+2026-10-21,Personal Care,Haircut,617,Cash
+2026-10-21,Travel,Auto fare,155,UPI
+2026-10-22,Personal Care,Haircut,328,Cash
+2026-10-22,Other,Miscellaneous expense,754,Cash
+2026-10-23,Shopping,Household items,1128,UPI
+2026-10-23,Travel,Cab ride,161,UPI
+2026-10-23,Food,Dinner,86,Card
+2026-10-24,Fuel,Petrol,975,Card
+2026-10-24,Food,Breakfast,58,Card
+2026-10-24,Fuel,Petrol,856,Card
+2026-10-24,Personal Care,Haircut,490,UPI
+2026-10-25,Shopping,Shoes,263,Cash
+2026-10-25,Education,Books,1395,UPI
+2026-10-26,Personal Care,Toiletries,685,Card
+2026-10-26,Fuel,Petrol,432,UPI
+2026-10-26,Entertainment,Movie ticket,283,Card
+2026-10-26,Bills,Electricity bill,1471,Card
+2026-10-27,Shopping,Accessories,542,Cash
+2026-10-27,Food,Evening snacks,133,UPI
+2026-10-27,Health,Doctor consultation,675,UPI
+2026-10-28,Food,Lunch,224,Cash
+2026-10-28,Shopping,Clothes,1243,Cash
+2026-10-28,Personal Care,Toiletries,599,Cash
+2026-10-29,Travel,Train ticket,111,Card
+2026-10-29,Shopping,Clothes,544,Card
+2026-10-30,Bills,Internet bill,742,Cash
+2026-10-30,Other,Unexpected expense,138,Cash
+2026-10-30,Other,Miscellaneous expense,280,UPI
+2026-10-30,Entertainment,Movie ticket,632,Card
+2026-10-30,Education,Online course,913,UPI
+2026-10-31,Other,Small purchase,699,UPI
+2026-10-31,Shopping,Shoes,1772,Cash
+2026-10-31,Entertainment,Streaming subscription,402,Card
+2026-10-31,Fuel,Petrol,961,Card
+2026-11-01,Fuel,Petrol,931,Card
+2026-11-01,Food,Dinner,166,UPI
+2026-11-01,Entertainment,Streaming subscription,721,Card
+2026-11-01,Bills,Electricity bill,1004,Cash
+2026-11-01,Education,Stationery,377,Card
+2026-11-02,Shopping,Shoes,482,UPI
+2026-11-02,Shopping,Accessories,915,UPI
+2026-11-03,Food,Lunch,263,Card
+2026-11-03,Travel,Cab ride,232,Card
+2026-11-04,Education,Stationery,1042,Cash
+2026-11-04,Education,Books,1373,Card
+2026-11-04,Food,Breakfast,237,UPI
+2026-11-04,Fuel,Petrol,202,Card
+2026-11-04,Education,Notebook,964,UPI
+2026-11-04,Health,Health checkup,1137,Card
+2026-11-05,Bills,Electricity bill,1354,Card
+2026-11-05,Personal Care,Toiletries,611,Cash
+2026-11-05,Fuel,Petrol,1021,Cash
+2026-11-05,Education,Online course,1097,Cash
+2026-11-05,Education,Online course,930,UPI
+2026-11-05,Shopping,Accessories,1212,Cash
+2026-11-06,Personal Care,Haircut,191,UPI
+2026-11-06,Education,Stationery,1451,UPI
+2026-11-06,Education,Notebook,879,Cash
+2026-11-06,Bills,Internet bill,1054,Cash
+2026-11-07,Education,Stationery,827,Card
+2026-11-07,Food,Tea and coffee,214,Cash
+2026-11-08,Bills,Electricity bill,898,Cash
+2026-11-08,Personal Care,Personal care products,609,Card
+2026-11-09,Health,Medicines,608,Cash
+2026-11-09,Health,Medicines,846,Cash
+2026-11-09,Entertainment,Streaming subscription,269,Cash
+2026-11-10,Other,Unexpected expense,47,Cash
+2026-11-10,Other,Unexpected expense,698,UPI
+2026-11-10,Travel,Cab ride,89,Cash
+2026-11-11,Food,Dinner,214,Cash
+2026-11-11,Education,Stationery,699,Cash
+2026-11-11,Entertainment,Game subscription,531,Cash
+2026-11-12,Health,Medicines,1154,UPI
+2026-11-12,Bills,Mobile recharge,1431,UPI
+2026-11-13,Food,Lunch,122,UPI
+2026-11-13,Other,Miscellaneous expense,264,UPI
+2026-11-14,Travel,Auto fare,258,Card
+2026-11-14,Shopping,Shoes,787,Card
+2026-11-14,Other,Unexpected expense,755,UPI
+2026-11-14,Fuel,Petrol,321,Card
+2026-11-14,Food,Dinner,314,Card
+2026-11-15,Entertainment,Streaming subscription,303,UPI
+2026-11-15,Other,Unexpected expense,870,Card
+2026-11-15,Education,Notebook,1457,Cash
+2026-11-15,Other,Miscellaneous expense,835,Card
+2026-11-15,Food,Dinner,292,Cash
+2026-11-16,Travel,Train ticket,26,Cash
+2026-11-16,Health,Medicines,937,Cash
+2026-11-16,Health,Health checkup,363,Cash
+2026-11-16,Fuel,Petrol,1090,Cash
+2026-11-17,Other,Small purchase,350,UPI
+2026-11-17,Travel,Train ticket,250,UPI
+2026-11-17,Health,Health checkup,826,Cash
+2026-11-17,Food,Evening snacks,186,UPI
+2026-11-17,Health,Medicines,776,Cash
+2026-11-18,Shopping,Shoes,2376,UPI
+2026-11-18,Personal Care,Haircut,137,UPI
+2026-11-18,Entertainment,Game subscription,668,UPI
+2026-11-18,Health,Health checkup,1055,Cash
+2026-11-19,Travel,Train ticket,133,Cash
+2026-11-19,Education,Online course,1389,Card
+2026-11-20,Health,Health checkup,1137,Cash
+2026-11-20,Entertainment,Streaming subscription,663,Cash
+2026-11-20,Bills,Internet bill,1029,Cash
+2026-11-20,Shopping,Shoes,1044,UPI
+2026-11-21,Bills,Mobile recharge,1197,Card
+2026-11-21,Fuel,Petrol,543,Card
+2026-11-21,Health,Doctor consultation,1124,Card
+2026-11-22,Travel,Auto fare,171,UPI
+2026-11-22,Bills,Mobile recharge,719,UPI
+2026-11-22,Personal Care,Haircut,330,UPI
+2026-11-22,Food,Tea and coffee,169,Card
+2026-11-23,Health,Medicines,75,Card
+2026-11-23,Shopping,Household items,2060,Cash
+2026-11-23,Bills,Mobile recharge,205,Cash
+2026-11-24,Travel,Bus fare,225,Cash
+2026-11-24,Travel,Bus fare,97,UPI
+2026-11-24,Other,Small purchase,107,UPI
+2026-11-24,Travel,Cab ride,135,Card
+2026-11-24,Entertainment,Game subscription,553,Cash
+2026-11-25,Entertainment,Game subscription,682,Card
+2026-11-25,Food,Tea and coffee,70,UPI
+2026-11-25,Education,Online course,1382,UPI
+2026-11-25,Fuel,Petrol,455,Card
+2026-11-25,Travel,Auto fare,21,Cash
+2026-11-25,Health,Health checkup,1012,Cash
+2026-11-26,Education,Online course,1477,Cash
+2026-11-26,Health,Medicines,528,Cash
+2026-11-27,Education,Stationery,265,Card
+2026-11-27,Education,Books,574,UPI
+2026-11-27,Travel,Bus fare,104,Cash
+2026-11-27,Other,Unexpected expense,864,Card
+2026-11-27,Shopping,Household items,609,Cash
+2026-11-27,Shopping,Household items,1215,Card
+2026-11-28,Health,Doctor consultation,214,Card
+2026-11-28,Food,Evening snacks,185,Card
+2026-11-28,Shopping,Clothes,474,UPI
+2026-11-28,Other,Unexpected expense,993,UPI
+2026-11-28,Shopping,Clothes,817,Cash
+2026-11-28,Personal Care,Personal care products,502,Cash
+2026-11-29,Other,Small purchase,670,Cash
+2026-11-29,Travel,Cab ride,198,Cash
+2026-11-29,Bills,Electricity bill,1472,UPI
+2026-11-30,Bills,Electricity bill,1114,Cash
+2026-11-30,Entertainment,Streaming subscription,137,Cash
+2026-11-30,Travel,Train ticket,149,Cash
+2026-12-01,Entertainment,Streaming subscription,101,Card
+2026-12-01,Personal Care,Toiletries,473,UPI
+2026-12-02,Personal Care,Toiletries,687,Cash
+2026-12-02,Health,Medicines,466,Cash
+2026-12-02,Personal Care,Haircut,344,Cash
+2026-12-03,Travel,Bus fare,142,Card
+2026-12-03,Fuel,Petrol,128,Card
+2026-12-03,Entertainment,Movie ticket,330,UPI
+2026-12-03,Health,Medicines,365,Cash
+2026-12-03,Shopping,Shoes,1801,Cash
+2026-12-04,Education,Stationery,1158,UPI
+2026-12-04,Entertainment,Movie ticket,713,Card
+2026-12-04,Fuel,Petrol,665,Cash
+2026-12-04,Bills,Internet bill,647,UPI
+2026-12-04,Shopping,Shoes,2475,Card
+2026-12-05,Fuel,Petrol,1091,Cash
+2026-12-05,Bills,Internet bill,1212,Cash
+2026-12-05,Health,Doctor consultation,436,Card
+2026-12-05,Education,Stationery,508,Cash
+2026-12-05,Food,Dinner,262,Card
+2026-12-06,Entertainment,Streaming subscription,767,UPI
+2026-12-06,Health,Medicines,308,Card
+2026-12-06,Other,Small purchase,910,UPI
+2026-12-06,Health,Medicines,1127,Cash
+2026-12-06,Food,Lunch,229,Card
+2026-12-07,Travel,Cab ride,155,Cash
+2026-12-07,Other,Unexpected expense,427,Card
+2026-12-07,Travel,Train ticket,293,Cash
+2026-12-08,Health,Health checkup,123,Card
+2026-12-08,Travel,Auto fare,167,UPI
+2026-12-08,Travel,Cab ride,70,Card
+2026-12-08,Travel,Cab ride,105,Card
+2026-12-09,Food,Breakfast,186,UPI
+2026-12-09,Shopping,Shoes,1635,Cash
+2026-12-09,Fuel,Petrol,1187,Cash
+2026-12-09,Other,Unexpected expense,831,UPI
+2026-12-10,Fuel,Petrol,883,Card
+2026-12-10,Education,Stationery,1224,UPI
+2026-12-10,Education,Stationery,1336,Cash
+2026-12-11,Shopping,Clothes,2005,Cash
+2026-12-11,Personal Care,Haircut,125,Cash
+2026-12-11,Bills,Internet bill,712,Card
+2026-12-11,Entertainment,Streaming subscription,356,Cash
+2026-12-11,Shopping,Accessories,1675,Cash
+2026-12-12,Education,Stationery,1201,Cash
+2026-12-12,Other,Small purchase,736,Cash
+2026-12-13,Entertainment,Game subscription,108,Card
+2026-12-13,Food,Tea and coffee,274,Cash
+2026-12-14,Other,Small purchase,244,Card
+2026-12-14,Education,Online course,1418,Card
+2026-12-14,Fuel,Petrol,180,Cash
+2026-12-15,Food,Tea and coffee,206,Card
+2026-12-15,Fuel,Petrol,704,Cash
+2026-12-15,Entertainment,Movie ticket,305,UPI
+2026-12-15,Personal Care,Toiletries,593,Card
+2026-12-15,Shopping,Accessories,1152,Cash
+2026-12-16,Bills,Mobile recharge,1059,UPI
+2026-12-16,Fuel,Petrol,913,Card
+2026-12-16,Bills,Mobile recharge,908,UPI
+2026-12-16,Shopping,Clothes,1962,Cash
+2026-12-17,Other,Small purchase,862,Card
+2026-12-17,Bills,Mobile recharge,1482,UPI
+2026-12-17,Health,Medicines,1199,Cash
+2026-12-17,Other,Miscellaneous expense,683,UPI
+2026-12-18,Shopping,Household items,577,UPI
+2026-12-18,Food,Breakfast,175,Cash
+2026-12-18,Travel,Bus fare,140,Card
+2026-12-18,Fuel,Petrol,1029,Cash
+2026-12-18,Personal Care,Toiletries,651,Card
+2026-12-19,Entertainment,Streaming subscription,201,Cash
+2026-12-19,Other,Small purchase,981,Cash
+2026-12-19,Food,Dinner,131,Cash
+2026-12-20,Education,Online course,233,Card
+2026-12-20,Bills,Internet bill,1420,Cash
+2026-12-20,Food,Evening snacks,161,UPI
+2026-12-20,Travel,Cab ride,66,Card
+2026-12-20,Education,Notebook,133,Cash
+2026-12-21,Fuel,Petrol,240,Card
+2026-12-21,Education,Books,507,Cash
+2026-12-21,Fuel,Petrol,667,UPI
+2026-12-22,Personal Care,Toiletries,228,UPI
+2026-12-22,Food,Lunch,27,Cash
+2026-12-22,Education,Online course,62,UPI
+2026-12-23,Food,Lunch,235,Card
+2026-12-23,Travel,Bus fare,263,Cash
+2026-12-23,Bills,Internet bill,1315,UPI
+2026-12-23,Health,Health checkup,503,Card
+2026-12-24,Personal Care,Toiletries,519,Card
+2026-12-24,Food,Breakfast,265,Cash
+2026-12-25,Travel,Cab ride,247,UPI
+2026-12-25,Travel,Train ticket,95,UPI
+2026-12-25,Fuel,Petrol,765,Cash
+2026-12-25,Other,Unexpected expense,321,Cash
+2026-12-25,Personal Care,Personal care products,490,UPI
+2026-12-26,Personal Care,Personal care products,270,Cash
+2026-12-26,Health,Medicines,897,Cash
+2026-12-27,Entertainment,Game subscription,197,Cash
+2026-12-27,Entertainment,Game subscription,781,Cash
+2026-12-27,Bills,Mobile recharge,1071,UPI
+2026-12-27,Travel,Bus fare,67,Cash
+2026-12-27,Travel,Train ticket,86,Card
+2026-12-28,Other,Unexpected expense,595,Cash
+2026-12-28,Travel,Cab ride,201,Card
+2026-12-29,Food,Dinner,327,Cash
+2026-12-29,Bills,Mobile recharge,1283,Card
+2026-12-29,Education,Books,1374,Cash
+2026-12-29,Education,Notebook,747,Card
+2026-12-29,Bills,Mobile recharge,670,Card
+2026-12-30,Entertainment,Streaming subscription,736,Card
+2026-12-30,Personal Care,Haircut,673,Card
+2026-12-30,Shopping,Clothes,838,Cash
+2026-12-31,Bills,Electricity bill,112,UPI
+2026-12-31,Fuel,Petrol,242,UPI
+2026-12-31,Food,Breakfast,291,UPI
+2026-12-31,Entertainment,Game subscription,564,Cash
+2026-10-14,Food,Lunch,100.0,Cash
+2026-12-12,Food,Biryani,180.0,UPI
+2026-10-18,Entertainment,Movie Ticket,100.0,Cash
+2026-10-18,Food,Popcorn,80.0,Cash
+2026-10-17,Bills,Wifi Recharge,98.0,UPI
+2026-10-16,Food,Biryani,80.0,Cash
