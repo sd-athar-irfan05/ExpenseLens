@@ -56,6 +56,16 @@ Explore the deployed dashboard:
 
 **[Open ExpenseLens Dashboard](https://expense-lens.streamlit.app/)**
 
+
+## Dashboard Preview
+
+![ExpenseLens Dashboard](dashboard.png.png)
+
+## Live Demo
+
+[🚀 Open ExpenseLens Dashboard](https://expense-lens.streamlit.app/)
+
+
 ## Installation and Setup
 
 ### 1. Clone the repository
