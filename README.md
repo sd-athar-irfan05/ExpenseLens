@@ -59,7 +59,7 @@ Explore the deployed dashboard:
 
 ## Dashboard Preview
 
-![ExpenseLens Dashboard](dashboard.png.png)
+![ExpenseLens Dashboard](dashboard.png)
 
 ## Live Demo
 
